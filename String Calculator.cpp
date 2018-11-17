@@ -1,5 +1,5 @@
 /**
- * @file BigInt.cpp
+ * @file String Calculator.cpp
  *
  * @author <a href="mailto:amirhhakimnejad@gmail.com">Amirhossein Hakimnejad</a>
  * @date May 5, 2018
